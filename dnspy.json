@@ -1,14 +1,16 @@
 {
     "version": "6.1.9",
     "description": ".NET debugger and assembly editor",
-    "homepage": "https://github.com/0xd4d/dnSpy",
+    "homepage": "https://github.com/dnSpyEx/dnSpy",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dnSpyEx/dnSpy/releases/download/v6.1.9/dnSpy-net-win64.zip"
+            "url": "https://github.com/dnSpyEx/dnSpy/releases/download/v6.1.9/dnSpy-net-win64.zip",
+			"hash": "8c01e7fd5c1684cd52dbee6c18d267990f2c1d2f3cfd23d037ea324508ce8e12"
         },
         "32bit": {
-            "url": "https://github.com/dnSpyEx/dnSpy/releases/download/v6.1.9/dnSpy-net-win32.zip"
+            "url": "https://github.com/dnSpyEx/dnSpy/releases/download/v6.1.9/dnSpy-net-win32.zip",
+			"hash": "8c01e7fd5c1684cd52dbee6c18d267990f2c1d2f3cfd23d037ea324508ce8e12"
         }
     },
     "bin": [
